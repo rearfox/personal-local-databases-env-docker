@@ -111,6 +111,7 @@ Depending on which configuration you use: you can always change the ports and ev
 To stop the containers:
 
 ```bash
+$ ~/.mysql
 docker compose down
 ```
 
