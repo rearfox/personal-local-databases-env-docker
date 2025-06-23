@@ -4,7 +4,7 @@
 
 ```
 ~/
-├── personal-local-env-docker/
+├── personal-local-databases-env-docker/
 │   ├── mysql-phpmyadmin/
 │   │   └── docker-compose.yml
 │   └── mongo-express/
